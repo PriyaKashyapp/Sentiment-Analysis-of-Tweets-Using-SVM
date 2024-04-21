@@ -42,4 +42,4 @@ Results
 
 Conclusion
 
-Enhancements in preprocessing and feature extraction significantly improved the accuracy of the SVM classifier from 0.847 to 0.854. This project demonstrates the effective use of NLP and machine learning techniques to interpret and classify sentiments in tweets.
+Enhancements in preprocessing and feature extraction significantly improved the accuracy of the SVM classifier to 0.854. This project demonstrates the effective use of NLP and machine learning techniques to interpret and classify sentiments in tweets.
